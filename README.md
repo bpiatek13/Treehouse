@@ -1,2 +1,1 @@
-# Treehouse
- First repository
+# Treehouse Project
